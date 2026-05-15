@@ -33,5 +33,3 @@ public/world.json
 .opencode
 .agents
 opencode.json
-.cursor/rules/agerpoint-*.mdc
-.aiassistant/rules/agerpoint-*.md
